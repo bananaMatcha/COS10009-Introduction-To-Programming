@@ -1,0 +1,59 @@
+4
+Bobby Caldwell
+Cool Uncle
+media/image/BobbyCover.png
+3
+4
+Game Over
+media/CoolUncle/Game_Over.mp3
+Breaking Up
+media/CoolUncle/Breaking_Up.mp3
+Miami Nights
+media/CoolUncle/Miami_Nights.mp3
+Never Knew Love Before
+media/CoolUncle/Never_Knew_Love_Before.mp3
+Fleetwood Mac
+Rumors
+media/image/RumoursCover.png
+4
+5
+Don't Stop
+media/Rumors/Don't_Stop.mp3
+Dreams
+media/Rumors/Dreams.mp3
+Second Hand News
+media/Rumors/Second_Hand_News.mp3
+The Chains
+media/Rumors/The_Chains.mp3
+You Make Loving Fun
+media/Rumors/You_Make_Loving_Fun.mp3
+The 1975
+Being Funny In A Foreign Language
+media/image/The1975.png
+1
+4
+About You
+media/1975/About_You.mp3
+All I Need To Hear
+media/1975/All_I_Need_To_Hear.mp3
+I'm In Love With You
+media/1975/I'm_In_Love_With_You.mp3
+Oh Caroline
+media/1975/Oh_Caroline.mp3
+Bruno Mars
+Unorthodox Jukebox
+media/image/BrunoCover.png
+1
+5
+Treasure
+media/Bruno/Treasure.mp3
+When I Was Your Man
+media/Bruno/When_I_Was_Your_Man.mp3
+Locked out of Heaven
+media/Bruno/Locked_out_of_Heaven.mp3
+Moonshine
+media/Bruno/Moonshine.mp3
+Young Girls
+media/Bruno/Young_Girls.mp3
+
+
